@@ -1,0 +1,6 @@
+mkdir study-club
+yo polymer
+npm install && bundle install
+firebase init
+gulp
+firebase deploy
